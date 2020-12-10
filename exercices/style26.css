@@ -1,0 +1,9 @@
+
+
+td {
+  text-align: center;
+}
+
+th[scope ="col"] {
+  background-color: #E8E8E8;
+}

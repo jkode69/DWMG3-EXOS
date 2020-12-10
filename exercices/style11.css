@@ -1,0 +1,28 @@
+.nom {
+  color : lightseagreen;
+}
+.numero{
+  text-decoration: underline;
+}
+
+.formation{
+  background-color:lightseagreen;
+  color : white;
+}
+.experience{
+  background-color:lightseagreen;
+  color : white;
+}
+.interet{
+  background-color:lightseagreen;
+  color : white;
+}
+.annee{
+  font-weight: bold;
+  text-shadow: 5px 5px #558ABB;
+}
+
+#img{
+  border : solid;
+  border-radius : 40px;
+}
